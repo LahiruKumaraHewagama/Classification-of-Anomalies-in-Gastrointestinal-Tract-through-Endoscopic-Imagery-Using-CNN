@@ -9,9 +9,9 @@ During this task you will explore KVASIR dataset.
 
 You should train a classification model on the given medical dataset to classify anomalies in Gastrointestinal Tract using endoscopic imagery. 
 We recommend  using a Deep Convolutional Neural Network with transfer learning.
-![image](https://user-images.githubusercontent.com/62339931/111059436-83ce0580-84bb-11eb-8d82-46a6593e575b.png)
 
-KVASIR Dataset![image](https://user-images.githubusercontent.com/62339931/111059446-9b0cf300-84bb-11eb-8d75-8d4a92b444df.png)
+
+t![image](https://user-images.githubusercontent.com/62339931/111059446-9b0cf300-84bb-11eb-8d75-8d4a92b444df.png)
 
 The dataset consists of 8,000 annotated GI tract images in 8 different classes (different annomalies) where 1000 images belong to each class.
 
@@ -20,14 +20,12 @@ It contains anatomical landmarks; z-lines, pylorus and cecum, pathological findi
 You can download the image dataset from
 https://datasets.simula.no/kvasir/#download or 
 https://datasets.simula.no/kvasir/data/kvasir-dataset.zip
-![image](https://user-images.githubusercontent.com/62339931/111059447-9e07e380-84bb-11eb-9fbb-f28acdfe5ea4.png)
 
-Useful tools![image](https://user-images.githubusercontent.com/62339931/111059452-a3fdc480-84bb-11eb-9bac-5a860435dbbe.png)
 
-Keras: Keras is a popular deep learning framework. Read and follow this tutorial, Installing Keras with the TensorFlow backend.
+![image](https://user-images.githubusercontent.com/62339931/111059452-a3fdc480-84bb-11eb-9bac-5a860435dbbe.png)
 
-NumPy & Scikit-learn: If you followed the Keras install instructions linked directly above, these packages for numerical processing and machine learning will be installed.
+*Keras: Keras is a popular deep learning framework. Read and follow this tutorial, Installing Keras with the TensorFlow backend.
 
-Matplotlib: The most popular plotting tool for Python. Once you have your Keras environment ready and active, you can install via pip install matplotlib .
+*NumPy & Scikit-learn: If you followed the Keras install instructions linked directly above, these packages for numerical processing and machine learning will be installed.
 
-![image](https://user-images.githubusercontent.com/62339931/111059453-a829e200-84bb-11eb-8c9e-8fd6333bb46a.png)
+*Matplotlib: The most popular plotting tool for Python. Once you have your Keras environment ready and active, you can install via pip install matplotlib .

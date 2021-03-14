@@ -11,7 +11,7 @@ You should train a classification model on the given medical dataset to classify
 We recommend  using a Deep Convolutional Neural Network with transfer learning.
 
 
-t![image](https://user-images.githubusercontent.com/62339931/111059446-9b0cf300-84bb-11eb-8d75-8d4a92b444df.png)
+![image](https://user-images.githubusercontent.com/62339931/111059446-9b0cf300-84bb-11eb-8d75-8d4a92b444df.png)
 
 The dataset consists of 8,000 annotated GI tract images in 8 different classes (different annomalies) where 1000 images belong to each class.
 
@@ -24,8 +24,8 @@ https://datasets.simula.no/kvasir/data/kvasir-dataset.zip
 
 ![image](https://user-images.githubusercontent.com/62339931/111059452-a3fdc480-84bb-11eb-9bac-5a860435dbbe.png)
 
-*Keras: Keras is a popular deep learning framework. Read and follow this tutorial, Installing Keras with the TensorFlow backend.
+* Keras: Keras is a popular deep learning framework. Read and follow this tutorial, Installing Keras with the TensorFlow backend.
 
-*NumPy & Scikit-learn: If you followed the Keras install instructions linked directly above, these packages for numerical processing and machine learning will be installed.
+* NumPy & Scikit-learn: If you followed the Keras install instructions linked directly above, these packages for numerical processing and machine learning will be installed.
 
-*Matplotlib: The most popular plotting tool for Python. Once you have your Keras environment ready and active, you can install via pip install matplotlib .
+* Matplotlib: The most popular plotting tool for Python. Once you have your Keras environment ready and active, you can install via pip install matplotlib .

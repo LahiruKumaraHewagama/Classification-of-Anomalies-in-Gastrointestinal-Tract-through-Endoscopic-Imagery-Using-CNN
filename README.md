@@ -37,7 +37,7 @@ Before the use this source code you have to go through following steps.
 **STEP 1**-Installing Python3, Pip  and set environment variables.
 (For more details - https://phoenixnap.com/kb/how-to-install-python-3-windows)
 
-STEP 2 - Installing Keras with the TensorFlow backend and a few python dependencies. 
+**STEP 2** - Installing Keras with the TensorFlow backend and a few python dependencies. 
 You can open a Command Prompt and run following Command.
 
 	* Installing NumPy & Scikit-learn .

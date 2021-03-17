@@ -78,7 +78,7 @@ After downloading , copy this dataset folder to pervious folder .
 STEP 5- Then Open a new Command Prompt from pervious folder and Open Jupyter notebook using following command. Then automatically will be open jupyter  notebook from browser window and click CNN MODEL(Team - NullPointers).ipynb file to open source file.
 
 	jupyter notebook
-
+![jupyter notebook](https://user-images.githubusercontent.com/62339931/111424224-7745e900-8717-11eb-9e35-946739f11c29.JPG
  
 
 STEP 6 - Change Dataset path for your location as following .

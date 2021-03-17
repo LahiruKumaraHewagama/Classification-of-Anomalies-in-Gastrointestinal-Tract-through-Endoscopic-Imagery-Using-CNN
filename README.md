@@ -80,6 +80,7 @@ Use this link https://datasets.simula.no/kvasir/#download for downloading data s
 After downloading , copy this dataset folder to pervious folder .
 ![dataset](https://user-images.githubusercontent.com/62339931/111424200-6bf2bd80-8717-11eb-852e-effe1aabbb7d.JPG) 
 
+
 STEP 5- Then Open a new Command Prompt from pervious folder and Open Jupyter notebook using following command. Then automatically will be open jupyter  notebook from browser window and click CNN MODEL(Team - NullPointers).ipynb file to open source file.
 
 	jupyter notebook
@@ -98,7 +99,6 @@ train_dir = os.path.join(r'<Your location>\kvasir-dataset-v2_splitted\train')
 	
 test_dir = os.path.join(r'<Your location>\kvasir-dataset-v2_splitted\val')
  
-
 
 
 

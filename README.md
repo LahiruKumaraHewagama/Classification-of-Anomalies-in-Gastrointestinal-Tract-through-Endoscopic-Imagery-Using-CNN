@@ -98,6 +98,7 @@ test_dir = os.path.join(r'<Your location>\kvasir-dataset-v2_splitted\val')
 
 STEP 7 - Run each by each using "Run" button .
  
+ ![run](https://user-images.githubusercontent.com/62339931/111424227-77de7f80-8717-11eb-86f2-0c0965910571.png)
 
 
 STEP 8 - After all steps you can check prediction of model using testing dataset.

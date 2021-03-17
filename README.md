@@ -31,9 +31,10 @@ https://datasets.simula.no/kvasir/data/kvasir-dataset.zip
 * Matplotlib: The most popular plotting tool for Python. Once you have your Keras environment ready and active, you can install via pip install matplotlib .
 
 
+
 Before the use this source code you have to go through following steps.
 
-STEP 1-Installing Python3, Pip  and set environment variables.
+**STEP 1**-Installing Python3, Pip  and set environment variables.
 (For more details - https://phoenixnap.com/kb/how-to-install-python-3-windows)
 
 STEP 2 - Installing Keras with the TensorFlow backend and a few python dependencies. 
@@ -61,7 +62,7 @@ You can open a Command Prompt and run following Command.
 
 
 	
-STEP 3 - Getting source code.
+**STEP 3** - Getting source code.
 
 Use Zip folder to get source code.
 Create new folder and Unzipping that Zip folder in that new folder. 
@@ -74,20 +75,20 @@ git clone https://github.com/LahiruKumaraHewagama/Classification-of-Anomalies-in
  ![git clone](https://user-images.githubusercontent.com/62339931/111424219-76ad5280-8717-11eb-9f68-e6dcbbc1631f.JPG)
  
  
-STEP 4 - Downloading Dataset  [ kvasir-dataset-v2.zip (size 2.3 GB) ]  .
+**STEP 4** - Downloading Dataset  [ kvasir-dataset-v2.zip (size 2.3 GB) ]  .
 Use this link https://datasets.simula.no/kvasir/#download for downloading data sets. 
 
 After downloading , copy this dataset folder to pervious folder .
 ![dataset](https://user-images.githubusercontent.com/62339931/111424200-6bf2bd80-8717-11eb-852e-effe1aabbb7d.JPG) 
 
 
-STEP 5- Then Open a new Command Prompt from pervious folder and Open Jupyter notebook using following command. Then automatically will be open jupyter  notebook from browser window and click CNN MODEL(Team - NullPointers).ipynb file to open source file.
+**STEP 5** - Then Open a new Command Prompt from pervious folder and Open Jupyter notebook using following command. Then automatically will be open jupyter  notebook from browser window and click CNN MODEL(Team - NullPointers).ipynb file to open source file.
 
 	jupyter notebook
 ![jupyter notebook](https://user-images.githubusercontent.com/62339931/111424224-7745e900-8717-11eb-9e35-946739f11c29.JPG)
  
 
-STEP 6 - Change Dataset path for your location as following .
+**STEP 6** - Change Dataset path for your location as following .
  
  ![change direc](https://user-images.githubusercontent.com/62339931/111424074-3fd73c80-8717-11eb-943b-ddbdb488cc1a.png)
 
@@ -100,14 +101,12 @@ train_dir = os.path.join(r'<Your location>\kvasir-dataset-v2_splitted\train')
 test_dir = os.path.join(r'<Your location>\kvasir-dataset-v2_splitted\val')
  
 
-
-
-STEP 7 - Run each by each using "Run" button .
+**STEP 7** - Run each by each using "Run" button .
  
  ![run](https://user-images.githubusercontent.com/62339931/111424227-77de7f80-8717-11eb-86f2-0c0965910571.png)
 
 
-STEP 8 - After all steps you can check prediction of model using testing dataset.
+**STEP 8** - After all steps you can check prediction of model using testing dataset.
 For this you can change index of image in testing dataset and can see predict Anomalies and correct Anomalies.
  
  ![final](https://user-images.githubusercontent.com/62339931/111424215-757c2580-8717-11eb-9cdf-9cab9bf787a7.png)

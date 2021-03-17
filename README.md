@@ -83,6 +83,8 @@ STEP 5- Then Open a new Command Prompt from pervious folder and Open Jupyter not
 
 STEP 6 - Change Dataset path for your location as following .
  
+ ![change direc](https://user-images.githubusercontent.com/62339931/111424074-3fd73c80-8717-11eb-943b-ddbdb488cc1a.png)
+
 input_dir=os.path.join(r'<Your location>\kvasir-dataset-v2')
 output_dir = os.path.join(r'<Your location>\kvasir-dataset-v2_splitted')
 
